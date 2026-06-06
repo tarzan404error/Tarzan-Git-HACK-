@@ -1,5 +1,6 @@
+````md
 
-
+```
 ████████╗ █████╗ ██████╗ ███████╗ █████╗ ███╗   ██╗
 ╚══██╔══╝██╔══██╗██╔══██╗╚══███╔╝██╔══██╗████╗  ██║
    ██║   ███████║██████╔╝  ███╔╝ ███████║██╔██╗ ██║
@@ -13,83 +14,106 @@
 ██║   ██║██║   ██║       ██╔══██║██╔══██║██║     ██╔═██╗
 ╚██████╔╝██║   ██║       ██║  ██║██║  ██║╚██████╗██║  ██╗
  ╚═════╝ ╚═╝   ╚═╝       ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝
+````
 
+---
 
+# 🌟 Make Your GitHub Contribution Graph Vibrant and Active! 🌟
 
-🌟 Make Your GitHub Contribution Graph Vibrant and Active! 🌟
+Welcome to Tarzan GIT Hack, a powerful Python tool designed to help you create a vibrant GitHub contribution graph with automated backdated commits. Whether you want to maintain consistency, experiment with contribution patterns, or simply make your profile look more active, Tarzan GIT Hack makes the process simple and efficient.
 
-Welcome to Tarzan GIT Hack, a powerful Python tool designed to help you create a vibrant GitHub contribution graph with automated backdated commits. Whether you want to maintain consistency, experiment with contribution patterns, or simply make your profile look more active, Tarzan Boy makes the process simple and efficient.
+---
 
-🚀 What is Tarzan Boy?
+# 🚀 What is Tarzan GIT Hack?
 
-Tarzan Boy is a lightweight and easy-to-use Python script that generates backdated commits and pushes them to your GitHub repository automatically.
+Tarzan GIT Hack is a lightweight and easy-to-use Python script that generates backdated commits and pushes them to your GitHub repository automatically.
 
 Perfect for developers who want to experiment with contribution patterns and maintain an active-looking GitHub profile.
 
+---
 
+# 📋 Prerequisites
 
-📋 Prerequisites
-🐍 Python 3.x installed
-🛠️ Git installed and configured
-🌐 Active GitHub account
-💻 Basic terminal knowledge
-🛠️ How to Use Tarzan GIT Hack
-1️⃣ Create a Private Repository
+* 🐍 Python 3.x installed
+* 🛠️ Git installed and configured
+* 🌐 Active GitHub account
+* 💻 Basic terminal knowledge
 
-Create a private repository on GitHub named priv.
+---
 
-2️⃣ Clone the Repository
+# 🛠️ How to Use Tarzan GIT Hack
+
+## 1️⃣ Create a Private Repository
+
+Create a private repository on GitHub named `priv`.
+
+## 2️⃣ Clone the Repository
+
+```bash
 git clone https://github.com/YOUR_USERNAME/priv.git
 
 cd priv
-3️⃣ Create a Data File
+```
+
+## 3️⃣ Create a Data File
 
 Create a file named:
 
+```text
 data.txt
+```
 
 inside the cloned repository.
 
-4️⃣ Add the Script
+## 4️⃣ Add the Script
 
-Copy the main.py script into the repository folder.
+Copy the `main.py` script into the repository folder.
 
-5️⃣ Run the Script
+## 5️⃣ Run the Script
+
+```bash
 python main.py
+```
 
-6️⃣ Follow the Prompts
+## 6️⃣ Follow the Prompts
 
 The program will ask for:
 
-Number of commits to generate
-Repository path
-Filename to modify
+* Number of commits to generate
+* Repository path
+* Filename to modify
 
-7️⃣ Let the Magic Happen
+## 7️⃣ Let the Magic Happen
 
 Tarzan GIT Hack will automatically:
 
-Generate backdated commits
-Commit changes
-Push commits to GitHub
+* Generate backdated commits
+* Commit changes
+* Push commits to GitHub
 
-8️⃣ Check Your Profile
+## 8️⃣ Check Your Profile
 
 Wait a few minutes and visit:
 
+```text
 https://github.com/YOUR_USERNAME
+```
 
 Your contribution graph should begin updating.
 
-⭐ Support
+---
+
+# ⭐ Support
 
 If you found this project useful:
 
 ⭐ Star the repository
 
-🔗 Follow: https://github.com/tarzan404error
+🔗 Follow: https://github.com/tarzan404error/Tarzan-Git-HACK
 
-⚠️ Disclaimer
+---
+
+# ⚠️ Disclaimer
 
 This project is intended for educational and experimental purposes only.
 
@@ -97,10 +121,17 @@ It should not be used to misrepresent actual project contributions or developmen
 
 Use responsibly and ethically.
 
-👨‍💻 Developer
+---
 
-Tarzan Boy
+# 👨‍💻 Developer
+
+**Tarzan Boy**
 
 GitHub: https://github.com/tarzan404error
 
-🚀 Build. Commit. Repeat.
+---
+
+# 🚀 Build. Commit. Repeat.
+
+```
+```
